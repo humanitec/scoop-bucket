@@ -1,0 +1,14 @@
+{
+    "version": "0.13.7",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/humanitec/cli/releases/download/v0.13.7/cli_0.13.7_windows_amd64.zip",
+            "bin": [
+                "humctl.exe"
+            ],
+            "hash": "51d668c3070d8fa5ad1527d7de1c2634a444f59b3f1a72a1dbe3703b2f5a5816"
+        }
+    },
+    "homepage": "https://developer.humanitec.com/platform-orchestrator/cli/",
+    "description": "The CLI for Humanitec, humctl."
+}
