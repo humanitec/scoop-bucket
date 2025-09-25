@@ -1,12 +1,12 @@
 {
-    "version": "1.38.1",
+    "version": "1.38.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/humanitec/hctl/releases/download/v1.38.1/hctl_1.38.1_windows_amd64.zip",
+            "url": "https://github.com/humanitec/hctl/releases/download/v1.38.2/hctl_1.38.2_windows_amd64.zip",
             "bin": [
                 "hctl.exe"
             ],
-            "hash": "f98d6829ba76c063456c30595d1f712171adac0b3529ced1dc9f0c9843d9d100"
+            "hash": "9e89c4331677f93c8a34c2510d7e8e8eb2367ce74ce38a5dbe78a7f5dc8096bb"
         }
     },
     "homepage": "https://developer.humanitec.com/platform-orchestrator/docs/integrations/cli",
