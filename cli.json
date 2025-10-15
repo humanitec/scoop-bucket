@@ -1,12 +1,12 @@
 {
-    "version": "0.39.11",
+    "version": "0.39.12",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/humanitec/cli/releases/download/v0.39.11/cli_0.39.11_windows_amd64.zip",
+            "url": "https://github.com/humanitec/cli/releases/download/v0.39.12/cli_0.39.12_windows_amd64.zip",
             "bin": [
                 "humctl.exe"
             ],
-            "hash": "e63c5d3849468ffb1dce8644ca02a8ddb394d4242ab3ef46509ab219ad3a3b0e"
+            "hash": "dadc7dc3835b53cd1e792ffcedf52a331ce066b223e93b04f088199ce8ea9479"
         }
     },
     "homepage": "https://developer.humanitec.com/platform-orchestrator/cli/",
