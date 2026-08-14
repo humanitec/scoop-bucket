@@ -6,7 +6,7 @@
             "bin": [
                 "humctl.exe"
             ],
-            "hash": "93588f96b52f3a7f6f8e715e877726f42d63fddc5c4a94dd6d1f63fe378e7d29"
+            "hash": "3493be4a68b65b1a13d0aef61205dad4c259de99ffdba33282ebaf9dcc77c05a"
         }
     },
     "homepage": "https://developer.humanitec.com/platform-orchestrator/cli/",
